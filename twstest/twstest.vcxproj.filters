@@ -96,9 +96,6 @@
     <ClCompile Include="RptFilterDlg.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="StdAfx.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="client2.rc">
